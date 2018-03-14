@@ -9,7 +9,7 @@ const HobbiesList = ({hobbies}) => (
   </ul>
 )
 
-HobbiesList.proptypes = {
+HobbiesList.propTypes = {
   hobbies: PropTypes.array.isRequired
 }
 

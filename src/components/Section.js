@@ -16,7 +16,7 @@ const Section =() => (
 </div>
 )
 
-Section.proptypes = {
+Section.propTypes = {
   data: PropTypes.object.isRequired
 }
 
